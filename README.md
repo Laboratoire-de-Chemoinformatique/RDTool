@@ -1,4 +1,4 @@
-# aam-optimize
+# RDTool
 
 ### command line options
 
