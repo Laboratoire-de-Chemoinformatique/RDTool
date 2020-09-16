@@ -1,4 +1,7 @@
 # RDTool
+This is a new version of the Reaction Decoder Tool (RDTool). In this version, some bugs were fixed, code speed was improved, and the main focus was done on Atom-to-Atom mapping. Also, the tool supports now an opportunity to call only one mapping method and to apply it to an RDF file. The previous version was taken from ReactionDecoder (or RDTool)
+author: Syed Asad Rahman https://github.com/asad
+repository: https://github.com/asad/ReactionDecoder
 
 ### Corresponding Authors:
     Alexandre Varnek (varnek@unistra.fr)
@@ -24,10 +27,6 @@
     Janssen Pharmaceutica N.V., Beerse, Belgium
     Rail Suleymanov, Arcadia, St. Petersburg, Russia
     
-The initial version was taken from ReactionDecoder (or RDTool)
-author: Syed Asad Rahman https://github.com/asad
-repository: https://github.com/asad/ReactionDecoder
-
 ### command line options
 
     -j, job type (MAPPING/CONSENSUS)
