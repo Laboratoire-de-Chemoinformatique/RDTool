@@ -3,6 +3,15 @@
 ### Corresponding Authors:
     Alexandre Varnek (varnek@unistra.fr)
     Timur Madzhidov (tmadzhidov@gmail.com)
+    
+### Contributors:
+    Rail Suleymanov (rail.suleymanov@gmail.com)
+    Arkadii Lin (arkadiyl18@gmail.com)
+    Natalia Duybankova (NDyubank@its.jnj.com)
+    Ramil Nugmanov (nougmanoff@hotmail.com)
+    Timur Madzhidov (tmadzhidov@gmail.com)
+    Alexandre Varnek (varnek@unistra.fr)
+    Joerg Wegner (jwegner@its.jnj.com)
    
 ### Copyright:
     Copyright 2020, MaDeSmart, Machine Design of Small Molecules by AI VLAIO project HBC.2018.2287
