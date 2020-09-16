@@ -1,5 +1,24 @@
 # RDTool
 
+### Corresponding Authors:
+    Alexandre Varnek (varnek@unistra.fr)
+    Timur Madzhidov (tmadzhidov@gmail.com)
+   
+### Copyright:
+    Copyright 2020, MaDeSmart, Machine Design of Small Molecules by AI VLAIO project HBC.2018.2287
+    
+### Credits:
+    University of Kazan, Russia
+    University of Strasbourg, France
+    University of Linz, Austria
+    University of Leuven, Belgium
+    Janssen Pharmaceutica N.V., Beerse, Belgium
+    Rail Suleymanov, Arcadia, St. Petersburg, Russia
+    
+The initial version was taken from ReactionDecoder (or RDTool)
+author: Syed Asad Rahman https://github.com/asad
+repository: https://github.com/asad/ReactionDecoder
+
 ### command line options
 
     -j, job type (MAPPING/CONSENSUS)
